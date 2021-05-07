@@ -11,6 +11,6 @@
   "license": "ISC",
   "dependencies": {
     "algoliasearch": "^4.0.3",
-    "ua-parser-js": "^0.7.21"
+    "ua-parser-js": "^0.7.24"
   }
 }
